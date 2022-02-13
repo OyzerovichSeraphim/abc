@@ -1,0 +1,14 @@
+program A;
+begin
+>> lfdskfl;
+{
+gkfgl;
+glf;
+}
+
+>>gfgf;
+{
+gdfg;
+gfdgd;
+}
+end;
